@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ML**
 
-- 👯 I’m looking to collaborate on **various project(SQL/PL-SQL, Flutter, Java, Python, AWS)**
+- 👯 I’m looking to collaborate on **SQL/PL-SQL, Flutter, Java, Python & AWS**
 
 - 🤝 I’m looking for help with **any begineers ML projects**
 
